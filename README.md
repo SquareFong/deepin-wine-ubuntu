@@ -167,7 +167,7 @@ chmod +x open_wechat.sh
 
 2. 捐赠打包者（这个其实不需要，我的贡献并不多，支持deepin就好了，不过有人在问，我就加上吧）
 ![](https://raw.githubusercontent.com/wszqkzqk/deepin-wine-ubuntu/master/donate.jpg)
-![](https://!raw.githubusercontent.com/wszqkzqk/deepin-wine-ubuntu/master/donate.png)
+![](https://raw.githubusercontent.com/wszqkzqk/deepin-wine-ubuntu/master/donate.png)
 
 欢迎大家积极反馈！
 
